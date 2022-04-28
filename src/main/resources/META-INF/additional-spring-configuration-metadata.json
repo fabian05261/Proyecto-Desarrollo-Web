@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "origins",
+    "type": "java.lang.String",
+    "description": "A description for 'origins'"
+  },
+  {
+    "name": "methods",
+    "type": "java.lang.String",
+    "description": "A description for 'methods'"
+  },
+  {
+    "name": "credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'credentials'"
+  },
+  {
+    "name": "allowedHeaders",
+    "type": "java.lang.String",
+    "description": "A description for 'allowedHeaders'"
+  },
+  {
+    "name": "exposedHeaders",
+    "type": "java.lang.String",
+    "description": "A description for 'exposedHeaders'"
+  },
+  {
+    "name": "maxage",
+    "type": "java.lang.String",
+    "description": "A description for 'maxage'"
+  }
+]}
